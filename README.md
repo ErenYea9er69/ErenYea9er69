@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/banner.jpg" alt="Banner" width="800" />
 </p>
 
-# Hi there 👋
-Welcome to my profile!
+# Yo Yo Yo  👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErenYea9er69&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="160" />
