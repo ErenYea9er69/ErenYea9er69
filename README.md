@@ -1,6 +1,8 @@
-![Banner](https://github.com/YourUsername/YourUsername/blob/main/banner.png)
+![Banner](https://github.com/Sasuke1003/Sasuke1003/blob/main/banner.png)
 
-## Hi there 👋
+# Hi there 👋
+Welcome to my profile!
+
 
 <!--
 **ErenYea9er69/ErenYea9er69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
