@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/banner.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/banner.jpg" alt="Banner" width="800" />
+</p>
 
 # Hi there 👋
 Welcome to my profile!
