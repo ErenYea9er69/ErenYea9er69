@@ -1,3 +1,5 @@
+![Banner](https://github.com/YourUsername/YourUsername/blob/main/banner.jpg)
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
