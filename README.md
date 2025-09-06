@@ -3,12 +3,6 @@
 </p>
 
 # Hi there 👋
-Welcome to my profile!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenYea9er69&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErenYea9er69&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-</p>
 
 ## Languages
 
