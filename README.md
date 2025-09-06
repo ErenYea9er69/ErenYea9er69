@@ -10,6 +10,8 @@ Welcome to my profile!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErenYea9er69&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
+## Languages
+
 <!-- Tech stack, supported by skillicons.dev -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,js,php,r,rust,html,go,cs,latex,md,powershell,bash,vue,ts,nodejs,vite,webpack,npm,jquery,bootstrap,tailwind,less,angular,pug,react,sass&perline=13" alt="Tech stack" />
