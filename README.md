@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/banner.png)
+![Banner](https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/banner.jpg)
 
 # Hi there 👋
 Welcome to my profile!
