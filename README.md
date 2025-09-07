@@ -4,19 +4,6 @@
 
 # Hi there 👋
 
----
-
-## ⚓ About Me
-<p align="center">
-  <img src="https://i.pinimg.com/originals/58/16/74/581674ac38e784da4cbe6a4c2296fc7a.gif" alt="One Piece Luffy" width="250"/>
-</p>
-
-<p align="center">
-  I'm a developer who sails the coding seas, always seeking treasure in new technologies.
-</p>
-
----
-
 ## 🏴‍☠️ Languages and Tools
 
 <p align="center">
@@ -30,18 +17,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/eslint.svg" height="40" alt="ESLint" />
 </p>
 
----
-
-## 🗺️ Wanted Poster
-<p align="center">
-  <img src="https://i.pinimg.com/originals/fc/07/4f/fc074f9a11daea56ffaf80f6e9ef6f5d.gif" alt="Wanted Poster" width="300"/>
-</p>
-
-<p align="center">
-  **Bounty:** Building epic projects and hunting bugs
-</p>
-
----
 
 ## ⚓ GitHub Stats
 <p align="center">
