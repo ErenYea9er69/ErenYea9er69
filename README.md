@@ -17,12 +17,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/eslint.svg" height="40" alt="ESLint" />
 </p>
 
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/irunonironic/irunonironic/output/github-contribution-grid-snake-dark.svg" alt="Cinnamon's Contribution Graph" />
-</p>
-
 ## ⚓ GitHub Stats
 
 <p align="center">
