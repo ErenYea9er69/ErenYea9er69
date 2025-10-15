@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/bn0.jpg" alt="Banner" width="800" />
+  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/bn.jpg" alt="Banner" width="800" />
 </p>
 
 # Hi there 👋
