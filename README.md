@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/bn2.gif" alt="Banner" width="800" />
+  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/bn0.jpg" alt="Banner" width="800" />
 </p>
 
 # Hi there 👋
@@ -29,9 +29,5 @@
 ---
 
 <p align="center">
-  <img src="https://moe-counter.glitch.me/ErenYea9er69/count.svg" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Anime animation" />
+  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/bn2.gif" alt="Banner" width="800" />
 </p>
