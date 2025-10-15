@@ -25,9 +25,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ErenYea9er69&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenYea9er69&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/bn2.gif" alt="Banner" width="800" />
-</p>
