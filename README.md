@@ -25,10 +25,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://moe-counter.glitch.me/ErenYea9er69/count.svg" alt="Visitor Count" />
+  <img src="https://camo.githubusercontent.com/e704fb4116246a3919b5c4c5f0133425f437ee37a1f686cf364dd80421920471/68747470733a2f2f6d6f652d636f756e7465722e676c697463682e6d652f6765742f40616e6461746f7368696b693a6769746875623f7468656d653d72756c653334" alt="visits" />
 </p>
-
 
 
