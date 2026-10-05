@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/dance.gif" width="120" alt="Dance" />
-  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/dance.gif" width="120" alt="Dance" />
-  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/dance.gif" width="120" alt="Dance" />
-  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/dance.gif" width="120" alt="Dance" />
+  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/dance1.gif" width="120" alt="Dance1" />
+  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/dance1.gif" width="120" alt="Dance1" />
+  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/dance1.gif" width="120" alt="Dance1" />
+  <img src="https://raw.githubusercontent.com/ErenYea9er69/ErenYea9er69/main/dance1.gif" width="120" alt="Dance1" />
 </p>
